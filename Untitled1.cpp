@@ -31,5 +31,6 @@ int main(){
 		printf("O Herói de nome %s está no nível de Radiante!", nome);
 	}
 	
+	system("pause");
 	return 0;
 }
